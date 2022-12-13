@@ -2,6 +2,11 @@ import random
 from variables import *
 from clases import *
 
+#Pendiente 
+# --> barcos aleatorios respetando los espacios.
+# --> implementar atributo tableroDisparos para saber los disparos que hago aunque ya lo tiene registrado el tablero contrario.
+# --> implementar barcos_ para tener todo más compacto y tener controlado los hundidos y tocados.
+
 def pintarBarcos(tablero):
     nCont = 0
 

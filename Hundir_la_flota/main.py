@@ -35,7 +35,7 @@ jugador.colocarBarcos(jugador.barcos)
 print(jugador.tablero)
 #print(maquina.tablero)
 
-numTocadosJugador = 2
+numTocadosJugador = 20
 numTocadosMaquina = 20
 
 lResp = []
